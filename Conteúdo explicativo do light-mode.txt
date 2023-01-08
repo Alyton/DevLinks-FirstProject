@@ -1,0 +1,31 @@
+:root - tudo o conteúdo dentro dele, quando for usado nas demais propriedades no decorrer do código, serão chamdos através de variáveis
+POR EXEMPLO:
+uma variável criado dentro do :root(raiz) é assim:
+--text-color: cor;
+Param chamar essa variável no decorrer do nosso código,
+chamaremos assim: 
+color: var(--text-color);
+E assim, a propriedade receberá a cor da variável.
+
+OBS: o :root, vai receber as variáveis referente ao dark-mode.
+
+Na class criada, light, receberá as propriedades referentes ao light-mode
+
+//Estilazando o Track do switch
+
+*span - por padrão recebe o display: inline, por isso não recebe algumas propriedades, como a width. Por isso colocamos um display: block
+
+//Posicionando o butão e o Track   *track - sombreamento por baixo do butão
+
+|sobrepondo elementos com position: absolute
+
+position: absolute - faz uma sobreposição de camadas
+z-index: 1 ou 0 - faz com que o elemento selecionado vá para frente o para trás
+
+|relative com absolute
+
+quando usamos relative no pai e absolute no filho, isso faz com que todo o conteúdo do filho fique relativo ao pai.
+
+Por Exemplo: quando usamos só absolute no no filho, ele tende a ficar fora do campo do pai. Quando colocamos o relative no pai, o filho passa a estar dentro do pai
+
+

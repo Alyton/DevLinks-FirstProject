@@ -1,0 +1,11 @@
+//Adicionando javascript ao projeto
+
+a propriedade documentElement faz referência ao html
+
+criamos uma função com com o nome que demos ao onClick no html
+
+em seguinda, dentro da function criamos uma const chamada html e atribuimos o valor do próprio html através do documentElement antecedido de document.
+
+cria-se uma condicional para verificar o click do botão através do if/else
+
+ele verifica se o html contém na lista de class dele (classList) e faz determinada ação, de remoção ou adição
