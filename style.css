@@ -93,7 +93,7 @@ Pra isso, uma das opçoes é chamar a tag pai e adicionar um text-align: center 
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide-out 0.4s;
+  animation: slide-out 0.4s ;
 }
 
 .light #switch button {
