@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>|
   <a href="#-projetos">projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -21,48 +21,38 @@
 
 ## 🚀 Tecnologias
 
----
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML &nbsp;e &nbsp;CSS&nbsp;&nbsp;|&nbsp; 
+- HTML e CSS&nbsp;&nbsp;|
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"/>
 
 
-- JavaScript&emsp;&emsp;&nbsp;|
+- JavaScript&emsp;|
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="20px"/>
 
-- Git e Github&emsp;&nbsp;|
+- Git e Github&emsp;|
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20px"/>
 <img src=".github/tech/github.svg" width="20px"
 />
 
-- Figma&emsp;&emsp;&emsp;&emsp;|
+- Figma&emsp;|
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20px"/>
 <br><br>
 
 ## 💻 Projeto
-
----
-
 
 DevLinks é um agregador de links para usarmos como cartão de visitas em nossas redes sociais.
 <br><br>
 
 ## 🔖 Layout
 
----
-
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/I06rXDkCPj9BaoVcYChZIY/DevLinks-(Community)?node-id=0%3A1&t=RFtfWTM8xoQTlri8-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 <br><br>
 
 ## 📝 Licença
 
----
-
 Esse projeto está sob a licença MIT.
-<br><br>
 
 ---
 
