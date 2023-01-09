@@ -4,7 +4,7 @@
  Evento exclusivo e promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-projetos">projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
